@@ -12,7 +12,7 @@ body {
     width: 80%;
     height: auto;
     margin-left: 10%;
-    margin-top: -2%;
+    margin-top: 2%;
 }
 
 .dashboard1:checked~.dashboard {

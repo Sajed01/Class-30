@@ -12,7 +12,7 @@ body {
     width: 80%;
     height: auto;
     margin-left: 10%;
-    margin-top: 2%;
+    margin-top: -2%;
 }
 
 .dashboard1:checked~.dashboard {
@@ -40,16 +40,4 @@ label span {
     text-decoration: underline;
 }
 
-.tnk {
-    margin-top: 2%;
-}
 
-.tnk a {
-    color: red;
-    font-size: 20px;
-    font-weight: 500;
-    text-decoration: none;
-    border: 3px dashed rgb(97, 128, 230);
-    border-radius: 50px;
-    padding: 10px 10px;
-}
